@@ -8,7 +8,7 @@ function selectWinnerBoxes(b1,b2,b3) {
      b1.classList.add("win");
      b2.classList.add("win");
      b3.classList.add("win");
-     turn.innerHTML = b1.innerHTML + " Won Confrats!";
+     turn.innerHTML = b1.innerHTML + " Won Congrats!";
 };
 
 function getWinner() {
